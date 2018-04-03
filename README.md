@@ -1,4 +1,4 @@
 # Hello-world
 My first repository
 
-print("Hekko world")
+print("Hello world")
